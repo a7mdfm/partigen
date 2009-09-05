@@ -1,5 +1,0 @@
-#summary Desuade
-
-= Introduction =
-
-Partigen is hosted at the desuade project page.
